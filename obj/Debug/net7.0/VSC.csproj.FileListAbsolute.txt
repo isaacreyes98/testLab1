@@ -1,0 +1,15 @@
+C:\Users\Isaac Reyes\Desktop\VSC\bin\Debug\net7.0\VSC.exe
+C:\Users\Isaac Reyes\Desktop\VSC\bin\Debug\net7.0\VSC.deps.json
+C:\Users\Isaac Reyes\Desktop\VSC\bin\Debug\net7.0\VSC.runtimeconfig.json
+C:\Users\Isaac Reyes\Desktop\VSC\bin\Debug\net7.0\VSC.dll
+C:\Users\Isaac Reyes\Desktop\VSC\bin\Debug\net7.0\VSC.pdb
+C:\Users\Isaac Reyes\Desktop\VSC\obj\Debug\net7.0\VSC.csproj.AssemblyReference.cache
+C:\Users\Isaac Reyes\Desktop\VSC\obj\Debug\net7.0\VSC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isaac Reyes\Desktop\VSC\obj\Debug\net7.0\VSC.AssemblyInfoInputs.cache
+C:\Users\Isaac Reyes\Desktop\VSC\obj\Debug\net7.0\VSC.AssemblyInfo.cs
+C:\Users\Isaac Reyes\Desktop\VSC\obj\Debug\net7.0\VSC.csproj.CoreCompileInputs.cache
+C:\Users\Isaac Reyes\Desktop\VSC\obj\Debug\net7.0\VSC.dll
+C:\Users\Isaac Reyes\Desktop\VSC\obj\Debug\net7.0\refint\VSC.dll
+C:\Users\Isaac Reyes\Desktop\VSC\obj\Debug\net7.0\VSC.pdb
+C:\Users\Isaac Reyes\Desktop\VSC\obj\Debug\net7.0\VSC.genruntimeconfig.cache
+C:\Users\Isaac Reyes\Desktop\VSC\obj\Debug\net7.0\ref\VSC.dll
